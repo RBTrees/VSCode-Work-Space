@@ -1,1 +1,0 @@
-{"name":"Local: VSCode","url":"d:\\VSCode Work Space\\VSCode.cpp","tests":[{"id":1646190580561,"input":"5 4\nPHPP\nPPHH\nPPPP\nPHPP\nPHHP","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCode Work Space\\VSCode.cpp","group":"local","local":true}
